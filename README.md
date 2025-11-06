@@ -13,7 +13,7 @@
    streamlit run app.py
 
 4. **Login ke Aplikasi**  
-   Setelah dijalankan, aplikasi akan terbuka otomatis di browser (biasanya di http://localhost:8501). Gunakan salah satu akun berikut untuk login:
+   Setelah dijalankan, aplikasi akan terbuka otomatis di browser. Gunakan salah satu akun berikut untuk login:
    - Sebagai User:  
      Username: wadaw  
      Password: 123  
