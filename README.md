@@ -1,5 +1,7 @@
 # CEPUIN
-# Cara Menjalankan Aplikasi
+
+## Link Aplikasi: https://cepuin.streamlit.app/
+## Cara Menjalankan Aplikasi di Lokal
 
 1. **Ekstrak File ZIP**  
    Sebelum menjalankan, pastikan kamu sudah mengekstrak seluruh isi file ZIP ke dalam satu folder. Jangan jalankan langsung dari file ZIP.
